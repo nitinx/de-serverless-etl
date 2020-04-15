@@ -51,7 +51,7 @@ Ask is to:
 	- S3 event trigger to be disabled
 	- Lambda Function #1 not required
 	- Glue job to be manually triggered
-	- Additional Glue job to load data dimension
+	- Additional on-demand Glue job to load date dimension
 
 ### Pre-requisites
 
