@@ -73,7 +73,7 @@ Three Python files:
 
 - `lambda-trigger-glue-job.py`: Lambda function to trigger Glue Job and send out notifications.
 - `lambda-trigger-glue-crawler.py`: Lambda function to trigger Glue Crawler and send out notifications.
-- `gllue-etl.py`: Glue ETL to transform CSV into partitioned Parquets.
+- `glue-etl.py`: Glue ETL to transform CSV into partitioned Parquets.
 
 
 ### Data
